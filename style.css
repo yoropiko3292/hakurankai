@@ -3,5 +3,5 @@ ol{List-style: none;border: 2px solid #000000;margin: 0px;padding: 0px;}
 li{margin-top: 12vh;}
 .endback{background-image: url(endback.png);background-size: contain;background-repeat: repeat;}
 .paper{background-image: url(paper.png);background-size: contain;background-repeat: repeat;}
-.brown{background-color: brown;}
+.brown{background-color: brown;color:#ffffff;}
 .white{color:#770000;font-size:larger;}
